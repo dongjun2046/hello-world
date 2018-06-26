@@ -2,3 +2,4 @@
 在github上修改
 
 远程仓库增加一行
+使用git pull一把
